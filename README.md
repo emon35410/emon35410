@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- DYNAMIC TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=a78bfa&center=true&vCenter=true&width=600&lines=Building+Scalable+Full-Stack+Web+Apps+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Elegant+Digital+Experiences;Open+To+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=a78bfa&center=true&vCenter=true&width=600&lines=Building+Scalable+Full-Stack+Web+Apps+%F0%9F%9A%80;React+%7C+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Elegant+Digital+Experiences;Open+To+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing Animation" />
 
 </div>
 
@@ -43,7 +43,7 @@ const emon = {
   ],
 
   skills: {
-    frontend:  ["React", "Next.js", "TailwindCSS"],
+    frontend:  ["React", "TailwindCSS"],
     backend:   ["Node.js", "Express.js"],
     database:  ["MongoDB", "Firebase"],
     tools:     ["Git", "Postman", "Vercel"]
@@ -123,6 +123,20 @@ const emon = {
   <a href="https://github.com/emon35410/Assignment-9-WarmPaws-Pet-Care-in-Winter"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
+<tr>
+  <td><b>🛡️ Red Avengers</b></td>
+  <td>Next-gen blood inventory & donation system with live tracking and secure donor matching</td>
+  <td>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  </td>
+  <td>
+    <a href="https://red-avengers.vercel.app/"><img src="https://img.shields.io/badge/Live-E11D48?style=flat-square&logo=vercel&logoColor=white"/></a>
+    <a href="https://github.com/emon35410/red-avengers"><img src="https://img.shields.io/badge/Client-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/emon35410/red-avengers-server"><img src="https://img.shields.io/badge/Server-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  </td>
+</tr>
 
 </tbody>
 </table>
@@ -138,13 +152,11 @@ const emon = {
 #### 💬 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![AOS Animation](https://img.shields.io/badge/AOS_Animation-000000?style=for-the-badge&logo=aos&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
