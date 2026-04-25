@@ -127,9 +127,12 @@ const emon = {
   <td><b>🛡️ Red Avengers</b></td>
   <td>Next-gen blood inventory & donation system with live tracking and secure donor matching</td>
   <td>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/SSLCommerz-9C27B0?style=flat-square&logo=mastercard&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=google-gemini&logoColor=white"/>
   </td>
   <td>
     <a href="https://red-avengers.vercel.app/"><img src="https://img.shields.io/badge/Live-E11D48?style=flat-square&logo=vercel&logoColor=white"/></a>
